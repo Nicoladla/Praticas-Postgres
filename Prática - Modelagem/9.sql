@@ -1,0 +1,1 @@
+INSERT INTO size (name) VALUE ('PP'), ('P'), ('M'), ('G'), ('GG');

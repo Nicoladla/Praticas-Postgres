@@ -1,0 +1,1 @@
+INSERT INTO status (name) VALUE ('criada'), ('paga'), ('entregue'), ('cancelada');

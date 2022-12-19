@@ -1,0 +1,1 @@
+INSERT INTO categories (name) VALUE ('calça'), ('short'), ('camisa'), ('vestido'), ('pijama');

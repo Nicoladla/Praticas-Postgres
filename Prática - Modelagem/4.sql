@@ -1,0 +1,4 @@
+CREATE TABLE "size" (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(3) NOT NULL UNIQUE,
+);
