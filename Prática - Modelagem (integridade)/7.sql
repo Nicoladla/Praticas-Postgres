@@ -5,4 +5,4 @@ CREATE TABLE "bankAccount"(
     agency TEXT NOT NULL,
     "openDate" TIMESTAMP NOT NULL,
     "closeDate" TIMESTAMP
-)
+);

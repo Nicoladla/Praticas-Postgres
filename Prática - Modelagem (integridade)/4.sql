@@ -6,4 +6,4 @@ CREATE TABLE "customerAddresses"(
     number INTEGER NOT NULL,
     complement VARCHAR(10) NOT NULL,
     "postalCode" TEXT NOT NULL
-)
+);

@@ -8,4 +8,4 @@ CREATE TABLE "creditCards"(
     "expirationYear" TEXT NOT NULL,
     password TEXT NOT NULL,
     limit INTEGER NOT NULL
-)
+);

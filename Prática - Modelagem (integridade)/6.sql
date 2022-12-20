@@ -3,4 +3,4 @@ CREATE TABLE "customers"(
     "fullName" TEXT NOT NULL,
     cpf VARCHAR(11) NOT NULL UNIQUE,
     password TEXT NOT NULL
-)
+);

@@ -7,4 +7,4 @@ CREATE TABLE "transactions"(
     time TIMESTAMP NOT NULL,
     description TEXT,
     cancelled BOOLEAN NOT NULL DEFAULT FALSE
-)
+);

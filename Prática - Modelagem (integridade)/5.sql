@@ -4,4 +4,4 @@ CREATE TABLE "customerPhones"(
     number INTEGER NOT NULL,
     type VARCHAR(8) NOT NULL,
         CHECK(type IN('landline', 'mobile'))
-)
+);
