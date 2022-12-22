@@ -1,0 +1,6 @@
+CREATE TABLE "students" (
+    id SERIAL PRIMARY KEY,
+    name TEXT NOT NULL,
+    email TEXT NOT NULL UNIQUE,
+    cpf VARCHAR(11) NOT NULL UNIQUE
+);
