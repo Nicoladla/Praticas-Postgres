@@ -6,4 +6,4 @@ CREATE TABLE "flights"(
     destination_airport INTEGER NOT NULL REFERENCES airports(id),
     departure_date TIMESTAMP NOT NULL DEFAULT NOW(),
     arrival_date TIMESTAMP
-)
+);

@@ -1,4 +1,4 @@
 CREATE TABLE "airports"(
     id SERIAL PRIMARY KEY,
-    name TEXT NOT NULL UNIQUE,
-)
+    name TEXT NOT NULL UNIQUE
+);
